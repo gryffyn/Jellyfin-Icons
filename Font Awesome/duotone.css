@@ -57,6 +57,11 @@
   font-family: "Font Awesome 5 Brands";
 }
 
+.material-icons.cast_connected:before {
+  content: "\f838";
+  font-family: "Font Awesome 5 Brands";
+}
+
 .material-icons.search:before {
   position: absolute;
   content: "\f002";
